@@ -7,10 +7,10 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raman9514?theme=light&font=Teko)
 
-<table>
+<table border="0">
   <tr>
     <td>
-      <p align="left">
+      <p align="left" style="height:100%">
         <a href="#" target="_blank">
           <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514" />
         </a>
