@@ -2,6 +2,12 @@
 <img src="https://github.com/raman9514/raman9514/blob/main/gitcover.png" width='100%'>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raman9514?theme=catppuccinMocha&font=Quantico&ext=heatmap)
 
+<p align="center">
+  <a href="#" target="_blank">
+    <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/raman9514?theme=catppuccinMocha&font=Quantico&ext=heatmap" />
+  </a>
+</p>
+
 <h3 align="center">Software Engineer with 2 years of experience in industry. Eager to join community to build out-of-the-box solutions.</h3>
 
 - 🔭 I’m currently working on [Haidakhandi's Directory](https://haidakhandi.org)
