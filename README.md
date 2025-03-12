@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raman</h1>
 <img src="https://github.com/raman9514/raman9514/blob/main/gitcover.png" width='100%'>
 
-<p align="left">
-  <a href="#" target="_blank">
-    <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" width="100%" src="https://leetcard.jacoblin.cool/raman9514?theme=catppuccinMocha&font=Quantico" />
-  </a>
-</p>
+
 
 [![Raman's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
@@ -14,7 +10,13 @@
 <table>
   <tr>
     <td>[![Raman's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514)](https://github.com/napiyo/geeksForGeeksStatsAPI)</td>
-     <td>![LeetCode Stats](https://leetcard.jacoblin.cool/raman9514?theme=light&font=Teko)</td>
+     <td>
+    <p align="left">
+      <a href="#" target="_blank">
+        <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/raman9514?theme=catppuccinMocha&font=Quantico" />
+      </a>
+    </p>
+     </td>
   </tr>
 </table>
 
