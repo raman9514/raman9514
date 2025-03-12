@@ -7,6 +7,8 @@
   </a>
 </p>
 
+[![Raman's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+
 <h3 align="center">Software Engineer with 2 years of experience in industry. Eager to join community to build out-of-the-box solutions.</h3>
 
 - 🔭 I’m currently working on [Haidakhandi's Directory](https://haidakhandi.org)
