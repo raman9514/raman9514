@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raman</h1>
+<img src="https://github.com/raman9514/raman9514/blob/main/gitcover.png" width='100%'>
+
 <h3 align="center">Software Engineer with 2 years of experience in industry. Eager to join community to build out-of-the-box solutions.</h3>
 
 - 🔭 I’m currently working on [Haidakhandi's Directory](https://haidakhandi.org)
