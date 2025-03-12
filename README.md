@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raman</h1>
-<h3 align="center">Diligent Backend Developer with 2 years of experience in industry. Eager to join community to build out-of-the-box solutions.</h3>
+<h3 align="center">Software Engineer with 2 years of experience in industry. Eager to join community to build out-of-the-box solutions.</h3>
 
 - 🔭 I’m currently working on [Haidakhandi's Directory](https://haidakhandi.org)
 
@@ -10,7 +10,7 @@
 - 💬 Ask me about **Python, Django, System Design**
 
 - 📫 How to reach me **raman9514@gmail.com**
-- 📄View My Resume [Download](https://www.canva.com/design/DAGJt6Fo7aI/Rq4qIwRnw7jsfWv3aQ43Ng/view?utm_content=DAGJt6Fo7aI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1dd516041a)
+- 📄 My Resume [Download](https://www.canva.com/design/DAGJt6Fo7aI/Rq4qIwRnw7jsfWv3aQ43Ng/view?utm_content=DAGJt6Fo7aI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1dd516041a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
