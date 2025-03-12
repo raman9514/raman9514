@@ -10,8 +10,7 @@
 - 💬 Ask me about **Python, Django, System Design**
 
 - 📫 How to reach me **raman9514@gmail.com**
-- ![image description](https://www.canva.com/design/DAGJt6Fo7aI/dhSJuDs0rooA7wp4U1-TBQ/view)
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGJt6Fo7aI&#x2F;dhSJuDs0rooA7wp4U1-TBQ&#x2F;view?utm_content=DAGJt6Fo7aI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black and White Modern Software Engineer Resume</a> by Raman Kumar
+- 📄View My Resume [Download](https://www.canva.com/design/DAGJt6Fo7aI/Rq4qIwRnw7jsfWv3aQ43Ng/view?utm_content=DAGJt6Fo7aI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1dd516041a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
