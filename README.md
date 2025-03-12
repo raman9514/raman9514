@@ -3,23 +3,19 @@
 
 
 
-[![Raman's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514)](https://github.com/napiyo/geeksForGeeksStatsAPI)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/raman9514?theme=light&font=Teko)
-
-<table border="0">
-  <tr>
-    <td>
-      <p align="left" style="height:100%">
+<table >
+  <tr border="0" style="border:0px">
+    <td style="border:0px; padding:0px">
+      <p align="left" >
         <a href="#" target="_blank">
-          <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514" />
+          <img style="height:150px; width:500px" title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514" />
         </a>
       </p>
     </td>
-     <td>
-      <p align="left">
+     <td style="border:0px">
+      <p align="left" style="padding:0px>
         <a href="#" target="_blank">
-          <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/raman9514?theme=catppuccinMocha&font=Quantico" />
+          <img style="height:380px" title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/raman9514?theme=catppuccinMocha&font=Quantico" />
         </a>
       </p>
      </td>
