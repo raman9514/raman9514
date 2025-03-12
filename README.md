@@ -3,25 +3,6 @@
 
 
 
-<table >
-  <tr border="0" style="border:0px">
-    <td style="border:0px; padding:0px">
-      <p align="left" >
-        <a href="#" target="_blank">
-          <img style="height:150px; width:500px" title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514" />
-        </a>
-      </p>
-    </td>
-     <td style="border:0px">
-      <p align="left" style="padding:0px>
-        <a href="#" target="_blank">
-          <img style="height:380px" title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/raman9514?theme=catppuccinMocha&font=Quantico" />
-        </a>
-      </p>
-     </td>
-  </tr>
-</table>
-
 
 
 
@@ -37,6 +18,12 @@
 
 - 📫 How to reach me **raman9514@gmail.com**
 - 📄 My Resume [Download](https://www.canva.com/design/DAGJt6Fo7aI/Rq4qIwRnw7jsfWv3aQ43Ng/view?utm_content=DAGJt6Fo7aI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1dd516041a)
+
+
+
+[![Raman's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/raman9514?theme=light&font=Teko)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,3 +53,28 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   </p>
+
+
+
+  
+<!--
+<table >
+  <tr border="0" style="border:0px">
+    <td style="border:0px; padding:0px">
+      <p align="left" >
+        <a href="#" target="_blank">
+          <img style="height:150px; width:500px" title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514" />
+        </a>
+      </p>
+    </td>
+     <td style="border:0px">
+      <p align="left" style="padding:0px>
+        <a href="#" target="_blank">
+          <img style="height:380px" title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/raman9514?theme=catppuccinMocha&font=Quantico" />
+        </a>
+      </p>
+     </td>
+  </tr>
+</table>
+
+-->
