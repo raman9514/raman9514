@@ -7,20 +7,16 @@
   </a>
 </p>
 
-[![Raman's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514&font=Quantico)](https://github.com/napiyo/geeksForGeeksStatsAPI)
+[![Raman's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raman9514?theme=light&font=Teko)
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
-    <h2>Section 1</h2>
-    <p>Content for section 1 goes here.</p>
-  </div>
-  <div style="width: 48%;">
-    <h2>Section 2</h2>
-    <p>Content for section 2 goes here.</p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>[![Raman's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514)](https://github.com/napiyo/geeksForGeeksStatsAPI)</td>
+     <td>![LeetCode Stats](https://leetcard.jacoblin.cool/raman9514?theme=light&font=Teko)</td>
+  </tr>
+</table>
 
 
 
