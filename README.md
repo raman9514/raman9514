@@ -9,13 +9,19 @@
 
 <table>
   <tr>
-    <td>[![Raman's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514)](https://github.com/napiyo/geeksForGeeksStatsAPI)</td>
+    <td>
+      <p align="left">
+        <a href="#" target="_blank">
+          <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514" />
+        </a>
+      </p>
+    </td>
      <td>
-    <p align="left">
-      <a href="#" target="_blank">
-        <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/raman9514?theme=catppuccinMocha&font=Quantico" />
-      </a>
-    </p>
+      <p align="left">
+        <a href="#" target="_blank">
+          <img title="JacobLinCool's LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/raman9514?theme=catppuccinMocha&font=Quantico" />
+        </a>
+      </p>
      </td>
   </tr>
 </table>
