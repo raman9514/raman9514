@@ -27,7 +27,7 @@ Feel free to [connect](mailto:raman9514@gmail.com) with me for collaboration or 
 
 - How to reach me **raman9514@gmail.com**
 - Twitter/X [x.com/raman9514](https://x.com/raman9514)
-- LinkedIn [linkedin.com/in/raman9514]("https://linkedin.com/in/raman9514)
+- LinkedIn [linkedin.com/in/raman9514](https://linkedin.com/in/raman9514)
 - LeetCode [leetcode.com/raman9514](https://www.leetcode.com/raman9514)
 - GFG [geeksforgeeks.org/user/raman9514](https://www.geeksforgeeks.org/user/raman9514/)
 - My Resume [Download](https://ramank.my.canva.site/)
