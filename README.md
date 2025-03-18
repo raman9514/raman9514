@@ -25,8 +25,14 @@ I specialize in **building scalable and efficient backend systems** using Django
 
 Feel free to [connect](mailto:raman9514@gmail.com) with me for collaboration or discussions on exciting projects!  
 
+- How to reach me **raman9514@gmail.com**
+- Twitter/X [x.com/raman9514](https://x.com/raman9514)
+- LinkedIn [linkedin.com/in/raman9514]("https://linkedin.com/in/raman9514)
+- LeetCode [leetcode.com/raman9514](https://www.leetcode.com/raman9514)
+- GFG [geeksforgeeks.org/user/raman9514](https://www.geeksforgeeks.org/user/raman9514/)
+- My Resume [Download](https://ramank.my.canva.site/)
 
-
+<!--
 - 🔭 I’m currently working on [Haidakhandi's Directory](https://haidakhandi.org)
 
 - 🌱 I’m currently learning **GOLang**
@@ -34,11 +40,6 @@ Feel free to [connect](mailto:raman9514@gmail.com) with me for collaboration or 
 - 👨‍💻 All of my projects are available at [https://itsraman.netlify.app/](https://itsraman.netlify.app/)
 
 - 💬 Ask me about **Python, Django, System Design**
-
-- 📫 How to reach me **raman9514@gmail.com**
-- 📄 My Resume [Download](https://www.canva.com/design/DAGJt6Fo7aI/Rq4qIwRnw7jsfWv3aQ43Ng/view?utm_content=DAGJt6Fo7aI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1dd516041a)
-
-
 
 [![Raman's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
@@ -74,7 +75,7 @@ Feel free to [connect](mailto:raman9514@gmail.com) with me for collaboration or 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   </p>
 
-
+-->
 
   
 <!--
