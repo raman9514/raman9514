@@ -1,12 +1,31 @@
-<h1 align="center">Hi 👋, I'm Raman</h1>
+
 <img src="https://github.com/raman9514/raman9514/blob/main/gitcover.png" width='100%'>
 
+I'm a **Software Engineer** with 2+ years of experience in designing and developing scalable applications.  
+
+## 🏆 About Me  
+
+I have a strong background in **Computer Science** and completed my **postgraduation from IGNOU**. Alongside my studies, I completed an **internship and later a full-time job at Agency Eleven100**, where I gained hands-on experience in building real-world applications.  
+
+Beyond my work, I'm constantly **learning new technologies** and **improving my problem-solving skills** to stay ahead in the ever-evolving tech landscape.  
+
+## 💻 Technical Skills  
+
+- **Backend Development**: Django, Django REST Framework (DRF), FastAPI, Go  
+- **Frontend Development**: React, Bootstrap, JavaScript  
+- **System Design**: Low-level design, scalable architecture  
+- **Database Management**: PostgreSQL, MySQL, MongoDB  
+- **Cloud & Deployment**: AWS (EC2, S3), Docker, Nginx, Gunicorn  
+
+## 🚀 What I Do  
+
+I specialize in **building scalable and efficient backend systems** using Django and DRF while ensuring seamless frontend integration with React. My expertise in **low-level design, algorithms, and backend security** helps me craft high-performance, maintainable, and scalable applications.  
+
+## 📫 Get in Touch  
+
+Feel free to [connect](mailto:raman9514@gmail.com) with me for collaboration or discussions on exciting projects!  
 
 
-
-
-
-<h3 align="center">Software Engineer with 2 years of experience in industry. Eager to join community to build out-of-the-box solutions.</h3>
 
 - 🔭 I’m currently working on [Haidakhandi's Directory](https://haidakhandi.org)
 
@@ -24,6 +43,7 @@
 [![Raman's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=raman9514)](https://github.com/napiyo/geeksForGeeksStatsAPI)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/raman9514?theme=light&font=Teko)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
